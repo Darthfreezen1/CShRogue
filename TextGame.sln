@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextGame", "TextGame\TextGame.csproj", "{C89F9FFF-2539-4DCD-A3C3-D443DF4952FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEXTGAMEAPI", "TEXTGAMEAPI\TEXTGAMEAPI.csproj", "{766F1D62-600A-4EDA-9347-C0ABCA9CDBFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C89F9FFF-2539-4DCD-A3C3-D443DF4952FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C89F9FFF-2539-4DCD-A3C3-D443DF4952FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C89F9FFF-2539-4DCD-A3C3-D443DF4952FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C89F9FFF-2539-4DCD-A3C3-D443DF4952FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{766F1D62-600A-4EDA-9347-C0ABCA9CDBFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{766F1D62-600A-4EDA-9347-C0ABCA9CDBFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{766F1D62-600A-4EDA-9347-C0ABCA9CDBFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{766F1D62-600A-4EDA-9347-C0ABCA9CDBFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF851B75-DA74-4BE8-A55D-ED71B5BF7872}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+dick
+@
+Inventory:
+[TestWeapon][Test Armour]

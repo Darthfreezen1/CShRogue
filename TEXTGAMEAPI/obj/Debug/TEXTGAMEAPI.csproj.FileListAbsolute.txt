@@ -1,0 +1,41 @@
+C:/Users/Garett/source/repos/TextGame/TEXTGAMEAPI/bin/Debug/TEXTGAMEAPI.dll
+C:/Users/Garett/source/repos/TextGame/TEXTGAMEAPI/bin/Debug/TEXTGAMEAPI.pdb
+C:/Users/Garett/source/repos/TextGame/TEXTGAMEAPI/obj/Debug/TEXTGAMEAPI.csprojAssemblyReference.cache
+C:/Users/Garett/source/repos/TextGame/TEXTGAMEAPI/obj/Debug/TEXTGAMEAPI.csproj.CoreCompileInputs.cache
+C:/Users/Garett/source/repos/TextGame/TEXTGAMEAPI/obj/Debug/TEXTGAMEAPI.dll
+C:/Users/Garett/source/repos/TextGame/TEXTGAMEAPI/obj/Debug/TEXTGAMEAPI.pdb
+/home/garett/MEGA/TextGame/TEXTGAMEAPI/bin/Debug/TEXTGAMEAPI.dll
+/home/garett/MEGA/TextGame/TEXTGAMEAPI/bin/Debug/TEXTGAMEAPI.pdb
+/home/garett/MEGA/TextGame/TEXTGAMEAPI/bin/Debug/OpenTK.dll
+/home/garett/MEGA/TextGame/TEXTGAMEAPI/bin/Debug/RLNET.dll
+/home/garett/MEGA/TextGame/TEXTGAMEAPI/bin/Debug/RogueSharp.dll
+/home/garett/MEGA/TextGame/TEXTGAMEAPI/bin/Debug/OpenTK.xml
+/home/garett/MEGA/TextGame/TEXTGAMEAPI/bin/Debug/OpenTK.dll.config
+/home/garett/MEGA/TextGame/TEXTGAMEAPI/obj/Debug/TEXTGAMEAPI.csprojAssemblyReference.cache
+/home/garett/MEGA/TextGame/TEXTGAMEAPI/obj/Debug/TEXTGAMEAPI.csproj.CoreCompileInputs.cache
+/home/garett/MEGA/TextGame/TEXTGAMEAPI/obj/Debug/TEXTGAMEAPI.csproj.CopyComplete
+/home/garett/MEGA/TextGame/TEXTGAMEAPI/obj/Debug/TEXTGAMEAPI.dll
+/home/garett/MEGA/TextGame/TEXTGAMEAPI/obj/Debug/TEXTGAMEAPI.pdb
+C:\Term 1 Classes\TextGame\TEXTGAMEAPI\bin\Debug\TEXTGAMEAPI.dll
+C:\Term 1 Classes\TextGame\TEXTGAMEAPI\bin\Debug\TEXTGAMEAPI.pdb
+C:\Term 1 Classes\TextGame\TEXTGAMEAPI\bin\Debug\OpenTK.dll
+C:\Term 1 Classes\TextGame\TEXTGAMEAPI\bin\Debug\RLNET.dll
+C:\Term 1 Classes\TextGame\TEXTGAMEAPI\bin\Debug\RogueSharp.dll
+C:\Term 1 Classes\TextGame\TEXTGAMEAPI\bin\Debug\OpenTK.xml
+C:\Term 1 Classes\TextGame\TEXTGAMEAPI\bin\Debug\OpenTK.dll.config
+C:\Term 1 Classes\TextGame\TEXTGAMEAPI\obj\Debug\TEXTGAMEAPI.csproj.CoreCompileInputs.cache
+C:\Term 1 Classes\TextGame\TEXTGAMEAPI\obj\Debug\TEXTGAMEAPI.csproj.CopyComplete
+C:\Term 1 Classes\TextGame\TEXTGAMEAPI\obj\Debug\TEXTGAMEAPI.dll
+C:\Term 1 Classes\TextGame\TEXTGAMEAPI\obj\Debug\TEXTGAMEAPI.pdb
+D:\SCHOOL SHIT\TextGame\TEXTGAMEAPI\bin\Debug\TEXTGAMEAPI.dll
+D:\SCHOOL SHIT\TextGame\TEXTGAMEAPI\bin\Debug\TEXTGAMEAPI.pdb
+D:\SCHOOL SHIT\TextGame\TEXTGAMEAPI\bin\Debug\OpenTK.dll
+D:\SCHOOL SHIT\TextGame\TEXTGAMEAPI\bin\Debug\RLNET.dll
+D:\SCHOOL SHIT\TextGame\TEXTGAMEAPI\bin\Debug\RogueSharp.dll
+D:\SCHOOL SHIT\TextGame\TEXTGAMEAPI\bin\Debug\OpenTK.xml
+D:\SCHOOL SHIT\TextGame\TEXTGAMEAPI\bin\Debug\OpenTK.dll.config
+D:\SCHOOL SHIT\TextGame\TEXTGAMEAPI\obj\Debug\TEXTGAMEAPI.csproj.CoreCompileInputs.cache
+D:\SCHOOL SHIT\TextGame\TEXTGAMEAPI\obj\Debug\TEXTGAMEAPI.csproj.CopyComplete
+D:\SCHOOL SHIT\TextGame\TEXTGAMEAPI\obj\Debug\TEXTGAMEAPI.dll
+D:\SCHOOL SHIT\TextGame\TEXTGAMEAPI\obj\Debug\TEXTGAMEAPI.pdb
+D:\SCHOOL SHIT\TextGame\TEXTGAMEAPI\obj\Debug\TEXTGAMEAPI.csprojAssemblyReference.cache

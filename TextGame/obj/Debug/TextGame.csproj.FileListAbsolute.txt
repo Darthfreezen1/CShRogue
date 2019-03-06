@@ -1,0 +1,61 @@
+C:/Users/Garett/source/repos/TextGame/TextGame/bin/Debug/TextGame.exe.config
+C:/Users/Garett/source/repos/TextGame/TextGame/bin/Debug/TextGame.exe
+C:/Users/Garett/source/repos/TextGame/TextGame/bin/Debug/TextGame.pdb
+C:/Users/Garett/source/repos/TextGame/TextGame/bin/Debug/TEXTGAMEAPI.dll
+C:/Users/Garett/source/repos/TextGame/TextGame/bin/Debug/TEXTGAMEAPI.pdb
+C:/Users/Garett/source/repos/TextGame/TextGame/obj/Debug/TextGame.csprojAssemblyReference.cache
+C:/Users/Garett/source/repos/TextGame/TextGame/obj/Debug/TextGame.csproj.CoreCompileInputs.cache
+C:/Users/Garett/source/repos/TextGame/TextGame/obj/Debug/TextGame.csproj.CopyComplete
+C:/Users/Garett/source/repos/TextGame/TextGame/obj/Debug/TextGame.exe
+C:/Users/Garett/source/repos/TextGame/TextGame/obj/Debug/TextGame.pdb
+/home/garett/MEGA/TextGame/TextGame/bin/Debug/terminal8x8.png
+/home/garett/MEGA/TextGame/TextGame/bin/Debug/TextGame.exe.config
+/home/garett/MEGA/TextGame/TextGame/bin/Debug/TextGame.exe
+/home/garett/MEGA/TextGame/TextGame/bin/Debug/TextGame.pdb
+/home/garett/MEGA/TextGame/TextGame/bin/Debug/OpenTK.dll
+/home/garett/MEGA/TextGame/TextGame/bin/Debug/RLNET.dll
+/home/garett/MEGA/TextGame/TextGame/bin/Debug/RogueSharp.dll
+/home/garett/MEGA/TextGame/TextGame/bin/Debug/SunshineConsole.dll
+/home/garett/MEGA/TextGame/TextGame/bin/Debug/TEXTGAMEAPI.dll
+/home/garett/MEGA/TextGame/TextGame/bin/Debug/TEXTGAMEAPI.pdb
+/home/garett/MEGA/TextGame/TextGame/bin/Debug/OpenTK.xml
+/home/garett/MEGA/TextGame/TextGame/bin/Debug/OpenTK.dll.config
+/home/garett/MEGA/TextGame/TextGame/obj/Debug/TextGame.csprojAssemblyReference.cache
+/home/garett/MEGA/TextGame/TextGame/obj/Debug/TextGame.exe.config
+/home/garett/MEGA/TextGame/TextGame/obj/Debug/TextGame.csproj.CoreCompileInputs.cache
+/home/garett/MEGA/TextGame/TextGame/obj/Debug/TextGame.csproj.CopyComplete
+/home/garett/MEGA/TextGame/TextGame/obj/Debug/TextGame.exe
+/home/garett/MEGA/TextGame/TextGame/obj/Debug/TextGame.pdb
+D:\SCHOOL SHIT\TextGame\TextGame\bin\Debug\terminal8x8.png
+D:\SCHOOL SHIT\TextGame\TextGame\bin\Debug\TextGame.exe.config
+D:\SCHOOL SHIT\TextGame\TextGame\bin\Debug\TextGame.exe
+D:\SCHOOL SHIT\TextGame\TextGame\bin\Debug\TextGame.pdb
+D:\SCHOOL SHIT\TextGame\TextGame\bin\Debug\OpenTK.dll
+D:\SCHOOL SHIT\TextGame\TextGame\bin\Debug\RLNET.dll
+D:\SCHOOL SHIT\TextGame\TextGame\bin\Debug\RogueSharp.dll
+D:\SCHOOL SHIT\TextGame\TextGame\bin\Debug\SunshineConsole.dll
+D:\SCHOOL SHIT\TextGame\TextGame\bin\Debug\TEXTGAMEAPI.dll
+D:\SCHOOL SHIT\TextGame\TextGame\bin\Debug\TEXTGAMEAPI.pdb
+D:\SCHOOL SHIT\TextGame\TextGame\bin\Debug\OpenTK.xml
+D:\SCHOOL SHIT\TextGame\TextGame\bin\Debug\OpenTK.dll.config
+D:\SCHOOL SHIT\TextGame\TextGame\obj\Debug\TextGame.csprojAssemblyReference.cache
+D:\SCHOOL SHIT\TextGame\TextGame\obj\Debug\TextGame.csproj.CoreCompileInputs.cache
+D:\SCHOOL SHIT\TextGame\TextGame\obj\Debug\TextGame.csproj.CopyComplete
+D:\SCHOOL SHIT\TextGame\TextGame\obj\Debug\TextGame.exe
+D:\SCHOOL SHIT\TextGame\TextGame\obj\Debug\TextGame.pdb
+C:\Term 1 Classes\TextGame\TextGame\obj\Debug\TextGame.csproj.CoreCompileInputs.cache
+C:\Term 1 Classes\TextGame\TextGame\bin\Debug\terminal8x8.png
+C:\Term 1 Classes\TextGame\TextGame\bin\Debug\TextGame.exe.config
+C:\Term 1 Classes\TextGame\TextGame\bin\Debug\TextGame.exe
+C:\Term 1 Classes\TextGame\TextGame\bin\Debug\TextGame.pdb
+C:\Term 1 Classes\TextGame\TextGame\bin\Debug\OpenTK.dll
+C:\Term 1 Classes\TextGame\TextGame\bin\Debug\RLNET.dll
+C:\Term 1 Classes\TextGame\TextGame\bin\Debug\RogueSharp.dll
+C:\Term 1 Classes\TextGame\TextGame\bin\Debug\SunshineConsole.dll
+C:\Term 1 Classes\TextGame\TextGame\bin\Debug\TEXTGAMEAPI.dll
+C:\Term 1 Classes\TextGame\TextGame\bin\Debug\TEXTGAMEAPI.pdb
+C:\Term 1 Classes\TextGame\TextGame\bin\Debug\OpenTK.xml
+C:\Term 1 Classes\TextGame\TextGame\bin\Debug\OpenTK.dll.config
+C:\Term 1 Classes\TextGame\TextGame\obj\Debug\TextGame.csproj.CopyComplete
+C:\Term 1 Classes\TextGame\TextGame\obj\Debug\TextGame.exe
+C:\Term 1 Classes\TextGame\TextGame\obj\Debug\TextGame.pdb
