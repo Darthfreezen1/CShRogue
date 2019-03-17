@@ -1,2 +1,2 @@
 # CShRogue
-A (really bad unfinished) roguelike written in C#
+A (really bad unfinished) roguelike written in C# with RogueSharp
